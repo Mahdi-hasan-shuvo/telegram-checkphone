@@ -530,3 +530,13 @@ Your Telethon issues likely stemmed from using the deprecated CheckPhoneRequest 
 ### ⭐ Star This Repo If You Find It Useful!
 
 **Made with ❤️ and ☕ by [Mahdi Hasan Shuvo](https://mahdi-hasan-shuvo.github.io/Mahdi-hasan-shuvo/)**
+## 💼 Contact Me for Paid Projects  
+
+Have a project in mind or need expert help?  
+I’m available for **freelance work and paid collaborations**.  
+
+📩 **Email**: [shuvobbhh@gmail.com]  
+💬 **Telegram / WhatsApp**: [+8801616397082]  
+🌐 **Portfolio**: [Portfolio Website](https://mahdi-hasan-shuvo.github.io/Mahdi-hasan-shuvo/)  
+
+> *"Quality work speaks louder than words. Let's build something remarkable together."*  

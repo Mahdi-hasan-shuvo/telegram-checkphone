@@ -524,3 +524,19 @@ All approaches face **strict rate limiting** (approximately 30 checks per minute
 The landscape shifted dramatically in 2023 with SMS deprecation and increased monitoring of unofficial clients. **Never use personal accounts for automation**—create fresh accounts from residential IPs specifically for this purpose. Treat bulk phone checking as high-risk behavior requiring careful implementation and acceptance of eventual account restrictions.
 
 Your Telethon issues likely stemmed from using the deprecated CheckPhoneRequest method or hitting rate limits without proper error handling. The solutions above implement the correct ImportContactsRequest approach with FloodWaitError handling and appropriate delays, providing a robust foundation for phone number verification at any scale.
+
+## 💼 Contact Me for Paid Projects  
+
+Have a project in mind or need expert help?  
+I’m available for **freelance work and paid collaborations**.  
+
+📩 **Email**: [shuvobbhh@gmail.com]  
+💬 **Telegram / WhatsApp**: [+8801616397082]  
+🌐 **Portfolio**: [Portfolio Website](https://mahdi-hasan-shuvo.github.io/Mahdi-hasan-shuvo/)  
+
+> *"Quality work speaks louder than words. Let's build something remarkable together."*  
+
+---
+### ⭐ Star This Repo If You Find It Useful!
+
+**Made with ❤️ and ☕ by [Mahdi Hasan Shuvo](https://mahdi-hasan-shuvo.github.io/Mahdi-hasan-shuvo/)**
